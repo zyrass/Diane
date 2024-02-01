@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Découverte de Tailwindcss via un premier projet conçu par Dyma et recodé par mes soins.",
   "scripts": {
-    "start": "tailwindcss -i ./src/dev.css -o ./src/assets/css/styles.css --watch"
+    "start": "tailwindcss -i ./src/dev.css -o ./src/assets/css/styles.css --watch",
+    "deploy": "tailwindcss -o ./dist/css/style.css --minify"
   },
   "keywords": [],
   "author": "",
