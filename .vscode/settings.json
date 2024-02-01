@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.scss": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "on"
+  },
+  "liveServer.settings.port": 5501
+}

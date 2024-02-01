@@ -1,0 +1,16 @@
+{
+  "name": "diane",
+  "version": "1.0.0",
+  "description": "Découverte de Tailwindcss via un premier projet conçu par Dyma et recodé par mes soins.",
+  "scripts": {
+    "start": "tailwindcss -i ./src/dev.css -o ./src/assets/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.1"
+  }
+}
